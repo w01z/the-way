@@ -1,0 +1,31 @@
+/* https://colorscheme.ru/#00b1T00ruw0w0 */
+
+.body {
+    background-image: url("../images/background4.jpg");
+    margin: 0em;
+}
+.toplink {
+  height: 1%;
+  padding: 0.6% 29%;
+  border-bottom: 1px solid #666633;
+  text-align: center;
+  display: flex;
+  justify-content: space-around;
+  align-items:center;
+}
+.all_title{
+  color: #666666;
+  text-align: center;
+}
+.column{
+  display: flex;
+  flex-direction:column;
+/*   justify-content: space-around; */
+align-items:center;
+}
+.row{
+  display: flex;
+  flex-direction: row;
+  /* justify-content: space-around; */
+  align-items:center;
+}
